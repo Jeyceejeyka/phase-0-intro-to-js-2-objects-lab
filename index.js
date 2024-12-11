@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // Write your solution in this file!
+=======
+>>>>>>> b84f9d0130dccf0cb068e5613c09bf6b3d9384fd
 /*created  employee object first;*/
 const employee = {
     name: "Sam",
@@ -49,4 +52,7 @@ const employee = {
   destructivelyDeleteFromEmployeeByKey(employee, "streetAddress");
   console.log("Destructive delete:", employee);
   
+<<<<<<< HEAD
 
+=======
+>>>>>>> b84f9d0130dccf0cb068e5613c09bf6b3d9384fd
